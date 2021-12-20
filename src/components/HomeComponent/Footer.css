@@ -6,6 +6,9 @@
     flex-direction: row;
     align-items: center;
     background-color: rgb(32, 129, 226);
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 
 .footerContents {

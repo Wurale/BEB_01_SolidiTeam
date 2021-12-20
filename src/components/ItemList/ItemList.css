@@ -2,6 +2,7 @@
   flex-wrap: wrap;
   width: 1250px;
   align-items: center;
+  margin-bottom: 40px;
 }
 .card.addOption {
   min-width: 240px;
